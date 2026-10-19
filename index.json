@@ -19,8 +19,9 @@
         {
           "version": "1.0",
           "date": "2026-10-19",
+          "localizedDescription": "Initial release.",
           "downloadURL": "https://archive.org/download/notion_202610/Notion.ipa",
-          "size": 0,
+          "size": 113664,
           "minOSVersion": "16.0"
         }
       ]
