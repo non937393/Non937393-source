@@ -1,29 +1,29 @@
-
 {
-    "name": "Non937393's Source!",
-    "subtitle": "nil",
-    "description": "nil",
-    "iconURL": "https://non937393.github.io/Non937393-source/logo.PNG",
-    "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
-    "patreonURL": "https://patreon.com/Non937393?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
-    "tintColor": "#4185A9",
-    "featuredApps": []
-}
-
-{
-  "name": "Notion",
-  "bundleIdentifier": "com.non937393.notion",
-  "developerName": "Non937393",
-  "subtitle": "Your personal workspace.",
-  "localizedDescription": "A personal workspace for notes, tasks, projects, and ideas.",
-  "iconURL": "https://non937393.github.io/Non937393-source/IMG_0713.png",
-  "versions": [
+  "name": "Non937393's Source!",
+  "subtitle": "nil",
+  "description": "nil",
+  "iconURL": "https://non937393.github.io/Non937393-source/logo.PNG",
+  "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
+  "patreonURL": "https://patreon.com/Non937393?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
+  "tintColor": "#4185A9",
+  "featuredApps": [],
+  "apps": [
     {
-      "version": "1.0",
-      "date": "2026-10-19",
-      "downloadURL": "https://archive.org/download/notion_202610/Notion.ipa",
-      "size": 0,
-      "minOSVersion": "16.0"
+      "name": "Notion",
+      "bundleIdentifier": "com.non937393.notion",
+      "developerName": "Non937393",
+      "subtitle": "Your personal workspace.",
+      "localizedDescription": "A personal workspace for notes, tasks, projects, and ideas.",
+      "iconURL": "https://non937393.github.io/Non937393-source/IMG_0713.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-10-19",
+          "downloadURL": "https://archive.org/download/notion_202610/Notion.ipa",
+          "size": 0,
+          "minOSVersion": "16.0"
+        }
+      ]
     }
   ]
 }
