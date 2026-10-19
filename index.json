@@ -17,11 +17,11 @@
       "iconURL": "https://non937393.github.io/Non937393-source/IMG_0713.png",
       "versions": [
         {
-          "version": "1.0",
+          "version": "1.1.0",
           "date": "2026-10-19",
-          "localizedDescription": "Initial release.",
+          "localizedDescription": "Improved UI. Small Stuff.",
           "downloadURL": "https://archive.org/download/notion_202610/Notion.ipa",
-          "size": 113664,
+          "size": 121000,
           "minOSVersion": "16.0"
         }
       ]
