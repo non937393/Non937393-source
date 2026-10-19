@@ -9,3 +9,21 @@
     "tintColor": "#4185A9",
     "featuredApps": []
 }
+
+{
+  "name": "Notion",
+  "bundleIdentifier": "com.non937393.notion",
+  "developerName": "Non937393",
+  "subtitle": "Your personal workspace.",
+  "localizedDescription": "A personal workspace for notes, tasks, projects, and ideas.",
+  "iconURL": "YOUR_RAW_ICON_URL",
+  "versions": [
+    {
+      "version": "1.0",
+      "date": "2026-10-19",
+      "downloadURL": "https://archive.org/download/notion_202610/Notion.ipa",
+      "size": 0,
+      "minOSVersion": "16.0"
+    }
+  ]
+}
